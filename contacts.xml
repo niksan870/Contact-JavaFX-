@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Test</first_name>
+	<last_name>Test</last_name>
+	<phone_number>Test</phone_number>
+	<notes>Test</notes>
+</contact>
+<contact>
+	<first_name>Test2</first_name>
+	<last_name>Test2</last_name>
+	<phone_number>Test2</phone_number>
+	<notes>Test2</notes>
+</contact>
+<contact>
+	<first_name>Test3</first_name>
+	<last_name>Test3</last_name>
+	<phone_number>Test3</phone_number>
+	<notes>Test3</notes>
+</contact>
+<contact>
+	<first_name>asd</first_name>
+	<last_name>asd</last_name>
+	<phone_number>asdas</phone_number>
+	<notes>dasd</notes>
+</contact>
+<contact>
+	<first_name>asd</first_name>
+	<last_name>asd</last_name>
+	<phone_number>asd</phone_number>
+	<notes>asd</notes>
+</contact>
+</contacts>
